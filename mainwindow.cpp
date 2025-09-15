@@ -134,7 +134,7 @@ void MainWindow::about()
     QMessageBox::about(this, tr("About Text Editor"),
         tr("<h2>Text Editor 1.0</h2>"
            "<p>Simple text editor built with Qt</p>"
-           "<p>Copyright © 2024</p>"));
+           "<p>Copyright © 2025</p>"));
 }
 
 void MainWindow::aboutQt()
